@@ -35,7 +35,6 @@ A fast, lightweight file manager for Windows that works with SSH (SFTP) servers,
 - 🖥️ **Terminal.** Open an SSH terminal on the server right inside the app.
 - 🌗 **Light and dark themes**, and English, 한국어 and 日本語.
 - 🔄 **Updates itself.** New versions download on their own. Click **Restart and install** when you are ready.
-- 🪶 **Light.** Rebuilt from scratch in Rust. It uses about a third of the memory of the old SSH Folder.
 
 ## Side by side
 
