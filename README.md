@@ -11,9 +11,10 @@ A fast, lightweight file manager for Windows that works with SSH (SFTP) servers,
 [![Latest release](https://img.shields.io/github/v/release/spilak0203-debug/Folderport?label=latest&color=0a64c8)](https://github.com/spilak0203-debug/Folderport/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/spilak0203-debug/Folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/Folderport/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?logo=windows)
-[![Made with Slint](https://img.shields.io/badge/Made%20with-Slint-2379f4)](https://slint.dev)
 
 **English** · [한국어](README.ko.md)
+
+<a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" height="40" alt="#MadeWithSlint"></a>
 
 [**⬇ Download for Windows**](https://github.com/spilak0203-debug/Folderport/releases/latest)
 
@@ -27,7 +28,7 @@ A fast, lightweight file manager for Windows that works with SSH (SFTP) servers,
 - 🔌 **SSH and SMB in one place.** Save SFTP servers and Windows file shares (SMB) in one list. Sign in with a password or a key file. SMB shares can also use your Windows account.
 - 💻 **This PC.** Browse your own drives in the same kind of tab, and drag files between your PC and any server.
 - ↔️ **Side by side.** Split a window in two and drag files from one place to the other.
-- 🧭 **Jump through the path.** Click a step in the address bar to list its subfolders and go straight there.
+- 🧭 **Jump through the path.** Rest the pointer on a folder name in the address bar to list its subfolders and go straight there.
 - 🚀 **Server to server.** Copy or move files between two SSH servers directly, without passing them through your PC. Your keys never leave your PC.
 - ✏️ **Edit in place.** Open a remote file in your usual app. Folderport uploads it again every time you save.
 - 👀 **Preview pane.** See text, images and video (mkv, avi and more, played by the built-in mpv) without downloading.

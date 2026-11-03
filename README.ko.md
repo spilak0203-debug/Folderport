@@ -11,9 +11,10 @@ SSH(SFTP) 서버, SMB 공유 폴더, 내 PC 드라이브를 같은 탭에서 다
 [![최신 릴리스](https://img.shields.io/github/v/release/spilak0203-debug/Folderport?label=latest&color=0a64c8)](https://github.com/spilak0203-debug/Folderport/releases/latest)
 [![다운로드](https://img.shields.io/github/downloads/spilak0203-debug/Folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/Folderport/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?logo=windows)
-[![Made with Slint](https://img.shields.io/badge/Made%20with-Slint-2379f4)](https://slint.dev)
 
 [English](README.md) · **한국어**
+
+<a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" height="40" alt="#MadeWithSlint"></a>
 
 [**⬇ Windows용 다운로드**](https://github.com/spilak0203-debug/Folderport/releases/latest)
 
@@ -27,7 +28,7 @@ SSH(SFTP) 서버, SMB 공유 폴더, 내 PC 드라이브를 같은 탭에서 다
 - 🔌 **SSH와 SMB를 한곳에서.** SFTP 서버와 Windows 공유 폴더(SMB)를 한 목록에 저장합니다. 비밀번호나 키 파일로 로그인하고, SMB는 Windows 계정으로도 들어갈 수 있습니다.
 - 💻 **내 PC.** 내 컴퓨터의 드라이브도 같은 탭에서 둘러보고, 서버와 끌어서 주고받습니다.
 - ↔️ **나란히 보기.** 한 창을 둘로 나눠 두 곳을 나란히 보고 서로 끌어다 놓습니다.
-- 🧭 **주소창으로 바로 이동.** 주소창의 단계를 누르면 하위 폴더 목록이 펼쳐지고, 골라서 바로 옮겨 갑니다.
+- 🧭 **주소창으로 바로 이동.** 주소창의 폴더 이름에 마우스를 올리면 하위 폴더 목록이 펼쳐지고, 골라서 바로 옮겨 갑니다.
 - 🚀 **서버끼리 직접.** SSH 서버 사이의 복사·이동이 PC를 거치지 않고 서버끼리 바로 오갑니다. 키는 PC 밖으로 나가지 않습니다.
 - ✏️ **그 자리에서 편집.** 서버의 파일을 평소 쓰는 프로그램으로 열고, 저장할 때마다 자동으로 다시 올립니다.
 - 👀 **미리 보기 창.** 텍스트, 이미지, 동영상(mkv, avi 등, 내장 mpv로 재생)을 받지 않고 바로 봅니다.
