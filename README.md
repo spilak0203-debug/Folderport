@@ -25,14 +25,15 @@ A fast, lightweight file manager for Windows that works with SSH (SFTP) servers,
 ## Features
 
 - 🗂️ **Feels like Explorer.** Folder tree, sortable columns, a breadcrumb address bar and tabs.
-- 🔌 **SSH and SMB in one place.** Save SFTP servers and Windows file shares (SMB) in one list. Sign in with a password or a key file. SMB shares can also use your Windows account.
+- 🔌 **SSH and SMB in one place.** Save SFTP servers and Windows file shares (SMB) in one list. SSH signs in with a password or a key file, SMB with a user name and password.
 - 💻 **This PC.** Browse your own drives in the same kind of tab, and drag files between your PC and any server.
 - ↔️ **Side by side.** Split a window in two and drag files from one place to the other.
-- 🧭 **Jump through the path.** Rest the pointer on a folder name in the address bar to list its subfolders and go straight there.
-- 🚀 **Server to server.** Copy or move files between two SSH servers directly, without passing them through your PC. Your keys never leave your PC.
+- ✂️ **Cut, copy and paste.** Use Ctrl+X, Ctrl+C and Ctrl+V or the right-click menu between servers, tabs and This PC, and to and from Windows Explorer.
+- 🧭 **Jump through the path.** Rest the pointer on a folder name in the address bar to list its subfolders and go straight there. While dragging files, rest on a folder name to go there, or drop on it to copy or move them into it.
+- 🚀 **Server to server.** Copy or move files between two SSH servers, or between an SSH server and an SMB share, without passing them through your PC. Your keys never leave your PC. When the receiving side signs in with a password, that password is handed to the sending server, so its administrator could see it. You can choose to be asked first every time.
 - ✏️ **Edit in place.** Open a remote file in your usual app. Folderport uploads it again every time you save.
 - 👀 **Preview pane.** See text, images and video (mkv, avi and more, played by the built-in mpv) without downloading.
-- 📦 **Transfer panel.** Progress, speed and time left for every upload and download, with cancel.
+- 📦 **Transfer panel.** Progress, speed and time left for every upload and download, with cancel. It stays folded until you rest the pointer on the bottom edge, and a pin keeps it open.
 - 🖥️ **Terminal.** Open an SSH terminal on the server right inside the app.
 - 🌗 **Light and dark themes**, and English, 한국어 and 日本語.
 - 🔄 **Updates itself.** New versions download on their own. Click **Restart and install** when you are ready.
