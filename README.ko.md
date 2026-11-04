@@ -12,7 +12,7 @@ SSH(SFTP) 서버, SMB 공유 폴더, 내 PC 드라이브를 같은 탭에서 다
 [![다운로드](https://img.shields.io/github/downloads/spilak0203-debug/Folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/Folderport/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?logo=windows)
 
-[English](README.md) · **한국어**
+[English](README.md) · **한국어** · [日本語](README.ja.md)
 
 <a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" height="40" alt="#MadeWithSlint"></a>
 
