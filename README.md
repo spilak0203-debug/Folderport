@@ -8,15 +8,15 @@
 
 A fast, lightweight file manager for Windows that works with SSH (SFTP) servers, SMB shares and your own drives, all in the same tabs.
 
-[![Latest release](https://img.shields.io/github/v/release/spilak0203-debug/Folderport?label=latest&color=0a64c8)](https://github.com/spilak0203-debug/Folderport/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/spilak0203-debug/Folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/Folderport/releases)
+[![Latest release](https://img.shields.io/github/v/release/spilak0203-debug/folderport?label=latest&color=0a64c8)](https://github.com/spilak0203-debug/folderport/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/spilak0203-debug/folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/folderport/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?logo=windows)
 
 **English** · [한국어](README.ko.md) · [日本語](README.ja.md)
 
 <a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" height="40" alt="#MadeWithSlint"></a>
 
-[**⬇ Download for Windows**](https://github.com/spilak0203-debug/Folderport/releases/latest)
+[**⬇ Download for Windows**](https://github.com/spilak0203-debug/folderport/releases/latest)
 
 <img src="docs/browse.gif" width="900" alt="Connecting to a server, opening folders, and previewing a config file">
 
@@ -54,7 +54,7 @@ Open two locations next to each other and drag files across. Here a 300 MB file 
 
 ## Download and install
 
-1. Download `Folderport-Setup-<version>.exe` from the [latest release](https://github.com/spilak0203-debug/Folderport/releases/latest).
+1. Download `Folderport-Setup-<version>.exe` from the [latest release](https://github.com/spilak0203-debug/folderport/releases/latest).
 2. Run it. It installs for your user account only, so no administrator rights are needed.
 3. If Windows SmartScreen says "Windows protected your PC", click **More info** and then **Run anyway**. The installer is not code-signed yet.
 
@@ -62,8 +62,8 @@ Open two locations next to each other and drag files across. Here a 300 MB file 
 
 ## Third-party software
 
-Folderport is built with [Slint](https://slint.dev) and plays video with [mpv](https://mpv.io) and [FFmpeg](https://ffmpeg.org) (LGPL). The license texts are installed with the app. The source code of the mpv and FFmpeg builds we ship is in the [`third-party` release](https://github.com/spilak0203-debug/Folderport/releases/tag/third-party).
+Folderport is built with [Slint](https://slint.dev) and plays video with [mpv](https://mpv.io) and [FFmpeg](https://ffmpeg.org) (LGPL). The license texts are installed with the app. The source code of the mpv and FFmpeg builds we ship is in the [`third-party` release](https://github.com/spilak0203-debug/folderport/releases/tag/third-party).
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/spilak0203-debug/Folderport/issues).
+Found a bug or have an idea? [Open an issue](https://github.com/spilak0203-debug/folderport/issues).

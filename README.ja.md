@@ -8,15 +8,15 @@
 
 SSH (SFTP) サーバー、SMB 共有フォルダー、PC のドライブを同じタブで扱える、軽くて速い Windows 用ファイルマネージャーです。
 
-[![最新リリース](https://img.shields.io/github/v/release/spilak0203-debug/Folderport?label=latest&color=0a64c8)](https://github.com/spilak0203-debug/Folderport/releases/latest)
-[![ダウンロード数](https://img.shields.io/github/downloads/spilak0203-debug/Folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/Folderport/releases)
+[![最新リリース](https://img.shields.io/github/v/release/spilak0203-debug/folderport?label=latest&color=0a64c8)](https://github.com/spilak0203-debug/folderport/releases/latest)
+[![ダウンロード数](https://img.shields.io/github/downloads/spilak0203-debug/folderport/total?color=2e8b57)](https://github.com/spilak0203-debug/folderport/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?logo=windows)
 
 [English](README.md) · [한국어](README.ko.md) · **日本語**
 
 <a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" height="40" alt="#MadeWithSlint"></a>
 
-[**⬇ Windows 版をダウンロード**](https://github.com/spilak0203-debug/Folderport/releases/latest)
+[**⬇ Windows 版をダウンロード**](https://github.com/spilak0203-debug/folderport/releases/latest)
 
 <img src="docs/browse.gif" width="900" alt="サーバーに接続してフォルダーを開き、設定ファイルをプレビューする様子">
 
@@ -54,7 +54,7 @@ SSH (SFTP) サーバー、SMB 共有フォルダー、PC のドライブを同�
 
 ## ダウンロードとインストール
 
-1. [最新リリース](https://github.com/spilak0203-debug/Folderport/releases/latest)から `Folderport-Setup-<バージョン>.exe` をダウンロードします。
+1. [最新リリース](https://github.com/spilak0203-debug/folderport/releases/latest)から `Folderport-Setup-<version>.exe` をダウンロードします。
 2. 実行します。現在のユーザーアカウントにだけインストールされるので、管理者権限は必要ありません。
 3. Windows SmartScreen に「Windows によって PC が保護されました」と表示されたら、**詳細情報** をクリックしてから **実行** をクリックしてください。インストーラーにまだコード署名がないために表示されます。
 
@@ -62,8 +62,8 @@ SSH (SFTP) サーバー、SMB 共有フォルダー、PC のドライブを同�
 
 ## サードパーティ ソフトウェア
 
-Folderport は [Slint](https://slint.dev) で作られており、動画の再生には [mpv](https://mpv.io) と [FFmpeg](https://ffmpeg.org) (LGPL) を使っています。ライセンスの全文はアプリと一緒にインストールされます。同梱している mpv と FFmpeg のビルドのソースコードは [`third-party` リリース](https://github.com/spilak0203-debug/Folderport/releases/tag/third-party)にあります。
+Folderport は [Slint](https://slint.dev) で作られており、動画の再生には [mpv](https://mpv.io) と [FFmpeg](https://ffmpeg.org) (LGPL) を使っています。ライセンスの全文はアプリと一緒にインストールされます。同梱している mpv と FFmpeg のビルドのソースコードは [`third-party` リリース](https://github.com/spilak0203-debug/folderport/releases/tag/third-party)にあります。
 
 ## フィードバック
 
-バグを見つけたときやアイデアがあるときは、[Issue を作成してください](https://github.com/spilak0203-debug/Folderport/issues)。
+バグを見つけたときやアイデアがあるときは、[Issue を作成してください](https://github.com/spilak0203-debug/folderport/issues)。
